@@ -1,3 +1,16 @@
+Package: com.phucnguyen.youtube
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/com.phucnguyen.youtube_1.4.0_iphoneos-arm_modified.deb
+Size: 6827884
+MD5sum: bb65d46bf49b098dca50ff686e61b33a
+SHA1: f25561038d54dbfd85f5d1490470eb7582335304
+SHA256: f59d2fa876a75363447c1b5c5ac08048a1c793839e837b5d89afb6687ea847a6
+Section: Applications
+Description: youtube cho ios 6 tro len tich hop chay nen
+Name: Youtube
+
 Package: curl
 Version: 7.65.0-1
 Architecture: iphoneos-arm
